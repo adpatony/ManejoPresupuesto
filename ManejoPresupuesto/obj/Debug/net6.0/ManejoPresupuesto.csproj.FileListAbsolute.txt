@@ -58,3 +58,5 @@ C:\Users\Tony\Proyectos\Cursos\Udemy\Felipe Gavilan\AspNet 6 Mvc\ManejoPresupues
 C:\Users\Tony\Proyectos\Cursos\Udemy\Felipe Gavilan\AspNet 6 Mvc\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.pdb
 C:\Users\Tony\Proyectos\Cursos\Udemy\Felipe Gavilan\AspNet 6 Mvc\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.genruntimeconfig.cache
 C:\Users\Tony\Proyectos\Cursos\Udemy\Felipe Gavilan\AspNet 6 Mvc\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ref\ManejoPresupuesto.dll
+C:\Users\Tony\Proyectos\Cursos\Udemy\Felipe Gavilan\AspNet 6 Mvc\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Tony\Proyectos\Cursos\Udemy\Felipe Gavilan\AspNet 6 Mvc\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
